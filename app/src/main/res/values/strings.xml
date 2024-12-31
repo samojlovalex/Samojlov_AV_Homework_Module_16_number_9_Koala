@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Samojlov_AV_Homework_Module_16_number_9_Koala</string>
+    <!--TODO Menu-->
+    <string name="toolbar_title">DimensionsStyles</string>
+    <string name="toolbar_subtitle">Mod. 16 № 9</string>
+    <string name="exit">Exit</string>
+    <string name="toast_exit">Приложение закрыто</string>
+    <!--TODO Input Field Layout-->
+    <string name="InputTextFieldMyStyle_hint">Введите текст</string>
+    <!--TODO Output Field Layout-->
+    <string name="textTitleTV_text">заголовок_32dp</string>
+    <string name="textSubtitleTV_text">подзаголовок_8dp</string>
+    <string name="textNormalTV_hint">Вывод текста_16dp</string>
+    <string name="textNormalTV_clear_text" />
+</resources>
